@@ -1,2 +1,25 @@
-# LeetCode-Solutions
-A collection of my LeetCode solutions in Python, organized by topic and difficulty. This repository documents my daily problem-solving practice, algorithmic thinking, and preparation for coding interviews, with clean, optimized, and well-documented solutions.
+# LeetCode Solutions
+
+Welcome to my LeetCode solutions repository!
+
+This repository contains my solutions to LeetCode problems solved as part of my daily Data Structures and Algorithms (DSA) practice. All solutions are implemented in Python with a focus on writing clean, efficient, and well-structured code.
+
+## 🎯 Goals
+
+- Strengthen problem-solving skills
+- Master Data Structures and Algorithms
+- Prepare for software engineering interviews
+- Maintain consistency through daily coding practice
+
+## 🛠️ Language
+
+- Python 🐍
+
+- ## 📈 Progress
+
+| Difficulty | Solved |
+|------------|-------:|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+| **Total** | **0** |
