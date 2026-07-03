@@ -20,10 +20,10 @@ This repository contains my solutions to LeetCode problems solved as part of my 
 <!-- START_PROGRESS -->
 
 | Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
+|------------|-------:|
+| 🟢 Easy | 2 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
-| **Total** | **0** |
+| **Total** | **4** |
 
-<!-- END PROGRESS -->
+<!-- END_PROGRESS -->
