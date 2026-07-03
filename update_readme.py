@@ -11,7 +11,7 @@ counts = {
 }
 
 # Walk through all folders
-for root, dirs, files in os.walk("."):
+for root, _, files in os.walk("."):
     folder = os.path.basename(root)
 
     if folder in counts:
