@@ -1,21 +1,21 @@
 # LeetCode 14: Longest Common Prefix
 # Difficulty: Easy
 # Topic: String
-
+#
 # Approach:
 # - Assume the first string is the common prefix.
 # - Compare it with every other string.
 # - If the current string does not start with the prefix,
 #   remove the last character from the prefix.
 # - Continue until a common prefix is found or the prefix becomes empty.
-
+#
 # This is the optimal solution.
-
+#
 # Time Complexity: O(n * m)
 # where:
 # n = number of strings
 # m = length of the longest common prefix
-
+#
 # Space Complexity: O(1)
 
 class Solution(object):
