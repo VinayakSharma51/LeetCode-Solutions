@@ -21,9 +21,9 @@ This repository contains my solutions to LeetCode problems solved as part of my 
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 <!-- END_PROGRESS -->
